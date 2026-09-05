@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer & Systems Architect-in-training</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=500&lines=Hi!+I'm+Sean%2C+backend+AI+engineer+%26+systems+architect.;I+turn+designs+into+working+systems%2C+not+just+demos.;Always+learning%2C+always+building." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Hi!+I'm+Sean%2C+backend+AI+engineer+%26+systems+architect.;I+turn+designs+into+working+systems%2C+not+just+demos.;Always+learning%2C+always+building." />
 </p>
 
 <p align="center">
