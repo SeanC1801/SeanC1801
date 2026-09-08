@@ -14,7 +14,7 @@
 
 ### About me
 
-I'm a Computer Science student working toward backend and AI systems engineering, aiming for roles in autonomous systems and low-latency engineering, especially in aviation and defense tech.
+I'm a Computer Science student working toward backend and AI systems engineering, **aiming** for roles in autonomous systems and low-latency engineering, especially in aviation and defense tech.
 
 ### Currently
 
