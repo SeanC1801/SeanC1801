@@ -14,7 +14,7 @@
 
 ### About me
 
-Computer Science student and Backend AI Engineer, building toward **systems and AI-backend engineering roles**. Most of the projects behind this profile started as a written design before a single endpoint existed. Longer-term direction: real-time and hardware/edge-adjacent systems.
+I'm a Computer Science student working toward backend and AI systems engineering, aiming for roles in autonomous systems and low-latency engineering, especially in aviation and defense tech.
 
 ### Currently
 
